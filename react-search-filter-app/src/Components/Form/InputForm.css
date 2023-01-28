@@ -1,0 +1,27 @@
+.form-input{
+    padding: 7px;
+    border-radius: 5px;
+    border-width: 0px;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+.main-content{
+    margin: 0 auto;
+    width: 400px;
+    margin-top: 50px;
+    padding: 30px;
+    background-color: lightblue;
+    border-radius: 8px;
+}
+.form-content{
+    display: flex;
+    justify-content: center;
+}
+.main-content ul{
+    padding-inline-start: 0px;
+    list-style-type: none;
+    text-align: center;
+}
+.label{
+    font-weight: 600;
+}
